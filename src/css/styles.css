@@ -12,7 +12,8 @@
 
 /* Sections style */
 @import url('./header.css');
-@import url('./vite-promo.css');
-@import url('./badges.css');
-@import url('./back-link.css');
+@import url('./about.css');
+@import url('./favourite.css');
+@import url('./cusromers.css');
+@import url('./subscribe.css');
 @import url('./footer.css');
